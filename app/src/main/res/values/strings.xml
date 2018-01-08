@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">فروشگاه آنلاین</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="show_all">لیست کامل</string>
+    <string name="products">محصولات</string>
+    <string name="wonderFulOffer">پیشنهاد شگفت انگیز</string>
+    <string name="search">جست و جو</string>
+    <string name="newest">جدیدترین</string>
+    <string name="sort">مرتب سازی</string>
+    <string name="filter">فیلتر کردن</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+    </string>
+    <string name="tooman">تومان</string>
+    <string name="dimens">ابعاد</string>
+    <string name="material">جنس</string>
+    <string name="weight">وزن</string>
+    <string name="color">رنگ</string>
+    <string name="leave_comment">ثبت دیدگاه</string>
+    <string name="comments">دیدگاه ها</string>
+    <string name="attr">مشخصات</string>
+    <string name="add_to_card">افزودن به سبد</string>
+    <string name="finilize_purchase">خرید خود را نهایی کنید</string>
+
+
+</resources>
